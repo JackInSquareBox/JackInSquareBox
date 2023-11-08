@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently employed in Squarebox Technology!
+- 🌱 I’m currently learning web & mobile technology using Flutter, Nodejs, React and C#. 
+- 📫 How to reach me: jiunyih@squareboxtech.com
+
 <!--
 **JackInSquareBox/JackInSquareBox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
